@@ -76,7 +76,7 @@ else {
 //3. Comparison operators: ==, ===, !=, !==, >, <, >=, <=
 //4. Logical operators: &&, ||, !
 
-//opertator precedence: parentheses, 
+//operator precedence: parentheses, 
 // exponents, multiplication/division, addition/subtraction
 //operands are evaluated from left to right
 
@@ -222,4 +222,4 @@ document.body.style.backgroundColor = 'yellow';
 
 //SELECT HTML ELEMENTS
 
-
+// я долбоеб
